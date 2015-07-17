@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="rev/tools/visualizer/VisualizationRunner.java|rev/view/y/panels/|rev/view/x/core/|rev/view/ui/|rev/view/overlay/|rev/view/core/|rev/view/clickmodes/|rev/view/map/|rev/view/y/core/|rev/view/|rev/utility/TileMapVisualizer.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/APSE"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
